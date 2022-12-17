@@ -1,6 +1,6 @@
 My First React Native Project - Calculator
 
-You can use it using scanning this QR code: 
+You can use it using scanning this QR code in expo app: 
 
 ![QRcode](https://user-images.githubusercontent.com/78165217/208245495-d2eb2451-4255-4e46-b45f-83febd458145.jpg)
 
